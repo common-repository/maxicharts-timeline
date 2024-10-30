@@ -1,0 +1,55 @@
+div.vis-tooltip {
+      font-size: 10px;
+      white-space: normal;      
+      max-width: 550px;      
+      white-space: normal !important;
+      word-wrap: break-word;
+      padding: 5px;
+  }
+  
+  
+ .maxicharts_timeline_button_bar {
+ 	display:flex;
+ 	flex-flow: row wrap;
+ }
+ 
+ 
+ /*
+ .vis-timeline .red {
+  color: white;
+  background-color: red;
+  border-color: darkred;
+}
+
+
+ .vis-timeline .orange {
+  color: white;
+  background-color: orange;
+  border-color: darkorange;
+}
+ .vis-timeline .purple {
+  color: white;
+  background-color: purple;
+  border-color: darkpurple;
+}
+ .vis-timeline .green {
+  color: white;
+  background-color: green;
+  border-color: darkgreen;
+}
+ .vis-timeline .blue {
+  color: white;
+  background-color: blue;
+  border-color: darkblue;
+}*/
+
+/*
+.vis-item.vis-background.tours {
+      background-color: rgba(54, 253, 255, 0.2);
+    }
+    .vis-item.vis-background.paris {
+      background-color: rgba(12, 51, 232, 0.2);
+    }
+    .vis-item.vis-background.madrid {
+      background-color: rgba(232, 134, 0, 0.2);
+    }*/
